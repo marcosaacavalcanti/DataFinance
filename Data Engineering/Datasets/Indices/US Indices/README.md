@@ -1,8 +1,8 @@
 ## Source
 
-All data extracted from Bloomberg.
+All data extracted from Bloomberg.  
 
-
+  
 ### Asset / Bloomberg Quote / Period  
 
 S&P500 /  SPX Index / [1927-12-30 , 2022-12-30]  
