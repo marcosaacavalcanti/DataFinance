@@ -1,2 +1,2 @@
 
-### IBOVESPA Indice Compostion since 11/2014
+### IBOVESPA Indice ComposItion since 11/2014
